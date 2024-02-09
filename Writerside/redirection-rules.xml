@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4dd01cb9">
+        <description>Created after removal of "Starter" from Buildbase</description>
+        <accepts>StarterT.html</accepts>
+    </rule>
+    <rule id="dc5e369">
+        <description>Created after removal of "Starter" from Buildbase</description>
+        <accepts>Startertest.html</accepts>
+    </rule>
+    <rule id="7e900033">
+        <description>Created after removal of "Buildbase Functional Scope" from Buildbase</description>
+        <accepts>Functional Scope.html</accepts>
+    </rule>
+</rules>
