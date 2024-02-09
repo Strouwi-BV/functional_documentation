@@ -86,8 +86,11 @@ jobs:
         with:
           name: docs
 
+      - name: Check content
+        run: ls -la & pwd
+
       - name: Unzip artifact
-        run: unzip -O UTF-8 -qq ${{ env.ARTIFACT }} -d dir
+        run: unzip -O UTF-8 -qq /home/runner/work/functional_documentation/functional_documentation/${{ env.ARTIFACT }} -d dir
 
       - name: Setup Pages
         uses: actions/configure-pages@v2
