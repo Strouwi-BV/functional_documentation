@@ -11,7 +11,7 @@ page you will be able to create a client or set existing clients and projects to
 
 ### Create a client
 
-![Add-client-and-project](MSS_add_client.jpg)
+![Add-client-and-project](MSS_add_client.jpg) 
 
 The admin will be able to create new clients.  
 He will be able to provide a client name, the starting date and the ending date.   
