@@ -18,6 +18,7 @@ Folow the instructions and open the app when installed.
 </br> It will ask for the link to the repository you fill in the clone link of this repository and it will clone it for you.
 </br>
 ![burger menu](/Writerside/images/burgermenu.png)
+</br>
 ![git hover](/Writerside/images/githover.png)
 
 
