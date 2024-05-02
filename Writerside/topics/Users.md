@@ -5,38 +5,44 @@
 ![User-overview](MSS_users.jpg)
 
 After selecting the option "Gebruikers" in the admin console, you will navigate to a page with a list of users.  
-Here you will have the option to [create new users](#create-a-new-user.) or set existing users to active/inactive.  
-If you select a user, you will see this user's details, and you can [modify](#modify-a-user.) this user.  
-After setting a user in the list to inactive, the slider will change to give a visual indication of the changed user
-state.
+Here you will have the option to create new users or select an existing one.  
+If you select a user, you will see this user's details, and you can modify this user.  
+After setting a user in the list to inactive, the green text block with the text "actief" will change to a red one with the text "inactief".
 
-![Quick-inactive](MSS_user_inactive.jpg)
+![User-inactive](MSS_user_inactive.jpg)
 
 ### Create a new user
 
 ![Create-user](MSS_add_user.jpg)
 
-When creating a new user, you will need to provide a [username](#create-a-new-user.) and password for this user.  
-This information will need to be handed over to this employee in person.
+When creating a new user, you will need to provide a name, email, work schedule, statute and a role.
+You will have the option to set a password, if you don't set one the employee will receive an email to set one up.
+If you do set one up for the employee, you will need to hand over this information to the employee in person.
+
+
+#### Work Schedule
+
+You will need to set a work schedule for this new employee. This schedule represents the required hours to work each week.  
+The current possible options are 38 hours or 40 hours which are set default by configuration, you can always add custom schedules in the settings.
+.  
+You will also be able to enter a standard weekly work-schedule for this person.
 
 #### Statute
 
-You will need to set a statute for this new employee. This statute represents the required hours to work each week.  
-The current possible options are 38 hours or 40 hours which are set default by [configuration](#statute-configuration.)
-.  
-You will also be able to enter a standard weekly work-schedule for this person.
+You can enter a statute here and this is a required input field. What you enter here had no underlying consequences.
 
 ### Modify a user
 
 ![Modify-user](MSS_modify_user.jpg)
 
-To modify a user you can select it in the user overview. On the 'modify user' page, you will be able to change the:
+To modify a user you can click on the user and press on a pencil for the information you want to add/change .
+On the 'modify user' page, you will be able to change the:
 
-- username
-- statute
+- Personal information (birthdate, nationality, bank account,... )
+- Contact information (address, work email, phone number, emergency contact,...)
 - work schedule
-- password
-- activity status
+
+ password and activity status can be found after clicking the actions dropdown menu
 
 #### Change password
 
