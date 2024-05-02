@@ -7,7 +7,7 @@
 After selecting the option "Gebruikers" in the admin console, you will navigate to a page with a list of users.  
 Here you will have the option to create new users or select an existing one.  
 If you select a user, you will see this user's details, and you can modify this user.  
-After setting a user in the list to inactive, the green textblock with the text "actief" will change to a red one with the text "inactief".
+After setting a user in the list to inactive, the green text block with the text "actief" will change to a red one with the text "inactief".
 
 ![User-inactive](MSS_user_inactive.jpg)
 
@@ -29,10 +29,7 @@ You will also be able to enter a standard weekly work-schedule for this person.
 
 #### Statute
 
-You will need to set a statute for this new employee. This statute represents the required hours to work each week.  
-The current possible options are 38 hours or 40 hours which are set default by configuration
-.  
-You will also be able to enter a standard weekly work-schedule for this person.
+You can enter a statute here and this is a required input field. What you enter here had no underlying consequences.
 
 ### Modify a user
 
