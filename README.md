@@ -26,6 +26,10 @@ Folow the instructions and open the app when installed.
 
 Create a new branch, this can be done at the same place where you selected clone. Name the branch using the convention used with the playwright project (feature/BT-..)
 </br> Create a new .md file using the name specified in your ticket, and start writing in MarkDown.
+</br> To make it show up on the navigation menu on the left, you go to the in.tree file. Here you add a new toc-element just like th eother ones listed and link it to your file.
+</br> to set the name, you just put `#<subject name>` on the top of the file.
+
+
 </br> Use at the top of the page "#(name of the covered feature)" and add the intertitles using ###.
 </br></br>
 To add a screenshot folow the folwong steps
