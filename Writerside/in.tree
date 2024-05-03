@@ -9,5 +9,6 @@
         <toc-element topic="Users.md"/>
         <toc-element topic="Client.md"/>
         <toc-element topic="Registration.md"/>
+        <toc-element topic="Settings.md"/>
     </toc-element>
 </instance-profile>
