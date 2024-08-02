@@ -1,51 +1,37 @@
 # Settings
 
-In this file we will cover everything you can find in the "instellingen" tab.
+The admin can adjust some parameters of the app by choosing "instellingen" in the [admin-console](#admin-console).
+Here he can change the settings of:
 
-### Parameters
-At "parameters" you will find the most important settings for how the program works, you can change following settings in here:
-- Start of the work day (The hour when the work day starts)
-- CIaO function (enables to add the location you are clocking from)
-- Format of the date (changes the format of the date, example: dd/mm/yyyy)
-- Maximum days in the past for absence (maximum days in the past that you can register an absence for)
-- Maximum days in the past for work hours (maximum days in the past that you can register hours for)
-- Enable/disable teams functionality (enables or disables if you can add employees to a team)
-- Work hours must be contiguous (this requires the registered work hours to be contiguous)
+- Maximum days an employee can register a work clocking in the past
+- Enable or disable teams
+- Maximum days an employee can register an absence in the past
 
+## Clocking in the past
 
+![Clockings in the past](MSS_settings_maxClockingsPast.jpg)
 
-![Parameters](MSS_parameters.jpg)
+By selecting "MaxDaysClockingInThePast" the admin is able to enter a number of days that an employee is allowed to
+register a work clocking before the current date. Standard the amount is set to 10 days.
+If set to zero the employees can only register a work clocking on the current date.
+The settings do not limit the ability of the admin to enter or adjust a work clocking on a previous date.
 
-### Organisation
+## Enable teams
 
-At "Organisatie" you can change the information for your organisation. You can change the following info:
-- The name of the organisation
-- The logo of the organisation
-- The address of the organisation
-- The BTW-number of the organisation
-- You can also copy the organisation ID
+![Enable teams](MSS_settings_disable_team.jpg)
 
-![Organisation](MSS_organisation.jpg)
+By selecting "EnableTeamsOption" the admin is able to activate or de-activate the use of teams. When set to true the
+admin can [manage teams](#manage-teams). If set to false the option "teambeheer" will be removed from
+the [admin-console](#admin-console).  
+If the admin has created one (or more teams) and then disables the option the details of the team wil be hidden but not
+deleted. If the admin later decides to enable the teams option the team (or teams) will be visible again
+in the list of teams.
 
+## Absences in the past
 
+![Absences in the past](MSS_settings_maxAbsencePast.jpg)
 
-
-
-### License
-
-At "Licentie" you can see and follow everything that has to do with your subscription, you can see and do the following things:
-- The amount of users and the maximum users (you can also add them here at any moment)
-- The monthly cost 
-- The modules you have subscribed for
-- The start and end date of you subscription (you can also renew it here)
-
-![License](MSS_license.jpg)
-
-
-### Work schedule
-
-At "Werkrooster" you can add, delete and edit the possible work schedules, you can choose a name, how long the break is, how long they have to work everyday (you can specify this day by day) and what hour they need to start (possible to specify day by day, or leave it empty if the employees can choose)
-
-
-![work-schedule](MSS_work-schedule.jpg)
-![edit-work-schedule](MSS_edit_work-schedule.jpg)
+By selecting "MaxDaysAbsenceInThePast" the admin is able to enter a number of days that an employee is allowed to
+register an absence before the current date. Standard the amount is set to 10 days.
+If set to zero the employees can only register an absence on the current date.
+The settings do not limit the ability of the admin to enter or adjust an absence on a previous date.
