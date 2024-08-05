@@ -71,24 +71,24 @@ for the selected day
 
 Prickings can be accessed through the navigation bar on the left of the screen. The button will always display a clock symbol, but its text may vary.
 
-![Alt text](/Resources/pricking_timer_no_existing.png)  
+![Alt text](pricking_timer_no_existing.png)  
 When there is no ongoing pricking, the button will show the word "Prikking".
 
-![Alt text](/Resources/pricking_timer.png)  
+![Alt text](pricking_timer.png)  
 When there is an ongoing pricking, the button wil dislpay the elapsed time since it started.
 
-![Alt text](/Resources/pricking_timer_more_than_24.png)  
+![Alt text](pricking_timer_more_than_24.png)  
 When the elapsed time is more than 24 hours, "> 24 uur" will be displayed instead.
 
 
 #### Start pricking
-![Alt text](/Resources/pricking_no_existing_without_client.jpg)
+![Alt text](pricking_no_existing_without_client.jpg)
 On the pricking page, when there is no ongoing pricking, you will be able to start one.
 To start a pricking, all you need to do is press start.
 
 **Note:** it is not possible to start a pricking when another clocking is registered in the future.
 #### Stop pricking
-![Alt text](/Resources/pricking_existing_without_client.jpg)  
+![Alt text](pricking_existing_without_client.jpg)  
 On the pricking page, when there is an ongoing pricking, you will be able to stop it.
 On this page, you can enter a comment and select whether or not you took a break. (Just like with normal work clockings)  
 Fields like start and end time , they are purely informational here.
@@ -98,13 +98,13 @@ When you press stop, if less than one minute has passed since the pricking start
 **Note:** the pricking start- and endtime are set in the backend. So there could be a slight delay between when the button is pressed and the registered time.
 
 #### Start pricking for client
-![Alt text](/Resources/pricking_no_existing.png)
+![Alt text](pricking_no_existing.png)
 On the pricking page, when there is no ongoing pricking, you will be able to start one.
 To start a pricking, all you need to do is select the client and project for which you want to start the pricking. Then press start.
 
 **Note:** it is not possible to start a pricking when another clocking is registered in the future.
 #### Stop pricking for client
-![Alt text](/Resources/pricking_existing.png)  
+![Alt text](pricking_existing.png)  
 On the pricking page, when there is an ongoing pricking, you will be able to stop it.
 On this page, you can enter a comment and select whether or not you took a break. (Just like with normal work clockings)  
 Fields like start and end time and client and project are not editable, they are purely informational here.
