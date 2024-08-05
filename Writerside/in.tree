@@ -6,9 +6,20 @@
                   name="Buildbase" start-page="Section-Starting-Page.topic">
 
     <toc-element topic="Section-Starting-Page.topic">
-        <toc-element topic="Users.md"/>
-        <toc-element topic="Client.md"/>
+        <toc-element topic="Introduction.md"/>
+        <toc-element topic="General.md"/>
         <toc-element topic="Registration.md"/>
+        <toc-element topic="LoginPage.md"/>
+        <toc-element topic="HomePage.md"/>
+        <toc-element topic="AdminConsole.md"/>
+        <toc-element topic="Teams.md"/>
+        <toc-element topic="Users.md"/>
+        <toc-element topic="ClientsAndProjects.md"/>
+        <toc-element topic="ConsultHours.md"/>
+        <toc-element topic="Invoices.md"/>
+        <toc-element topic="EmployeeHours.md"/>
         <toc-element topic="Settings.md"/>
+        <toc-element topic="Configuration.md"/>
+        <toc-element topic="BannerMessages.md"/>
     </toc-element>
 </instance-profile>

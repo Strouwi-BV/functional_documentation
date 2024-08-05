@@ -1,3 +1,5 @@
+
+
 # Users
 
 ## User overview
@@ -5,46 +7,64 @@
 ![User-overview](MSS_users.jpg)
 
 After selecting the option "Gebruikers" in the admin console, you will navigate to a page with a list of users.  
-Here you will have the option to create new users or select an existing one.  
-If you select a user, you will see this user's details, and you can modify this user.  
-After setting a user in the list to inactive, the green text block with the text "actief" will change to a red one with the text "inactief".
+Here you will have the option to [create new users](#create-a-new-user) or set existing users to active/inactive.  
+If you select a user, you will see this user's details, and you can [modify](#modify-a-user) this user.  
+After setting a user in the list to inactive, the slider will change to give a visual indication of the changed user
+state.
 
-![User-inactive](MSS_user_inactive.jpg)
+![Quick-inactive](MSS_user_inactive.jpg)
 
-### Create a new user
+## Create a new user
 
-![Create-user](MSS_add_user.jpg)
+<img src="User-overview-new-button-highlighted.png" alt="User overview with new button highlighted" width="49%"/>
+<img src="User-create-save-button-highlighted.png" alt="User create page with save button highlighted" width="49%"/>
+When creating a new user, you will need to provide an email, firstname, lastname, workschedule, statute, role and (if desired) password for this user.  
+An email will be send to this person, but the password will have to be communicated in person.  
 
-When creating a new user, you will need to provide a name, email, work schedule, statute and a role.
-You will have the option to set a password, if you don't set one the employee will receive an email to set one up.
-If you do set one up for the employee, you will need to hand over this information to the employee in person.
+When creating a new user, you will need to provide an email, firstname, lastname, workschedule, statute, role and password (if desired) for this
+user.  
+An email will be send to the user so they can set their own password. If the password was set for them, this will need to be communicated manually.  
+After the user has been created, you will be directed to its [details page](#user-details).
 
+## User details
+<img src="User-details.png" alt="User details page"/>
 
-#### Work Schedule
+## Modify a user
 
-You will need to set a work schedule for this new employee. This schedule represents the required hours to work each week.  
-The current possible options are 38 hours or 40 hours which are set default by configuration, you can always add custom schedules in the settings.
-.  
-You will also be able to enter a standard weekly work-schedule for this person.
+![Modify-user](MSS_modify_user.png)
 
-#### Statute
+To modify a user you can select it in the user overview. On the 'modify user' page, you will be able to change the:
 
-You can enter a statute here and this is a required input field. What you enter here had no underlying consequences.
-
-### Modify a user
-
-![Modify-user](MSS_modify_user.jpg)
-
-To modify a user you can click on the user and press on a pencil for the information you want to add/change .
-On the 'modify user' page, you will be able to change the:
-
-- Personal information (birthdate, nationality, bank account,... )
-- Contact information (address, work email, phone number, emergency contact,...)
+- avatar
+- firstname
+- lastname
+- email
+- statute
+- role
 - work schedule
+- password
+- activity status
 
- password and activity status can be found after clicking the actions dropdown menu
+### Change avatar
 
-#### Change password
+The admin will be able to change an employee's avatar.
+
+#### Upload or change avatar
+
+![Change-avatar](MSS_Change_Avatar.png)
+
+On the 'modify user' page click anywhere in the avatar field. This will open the upload page for the users avatar.
+Use the select field to navigate to the desired avatar and click on the save button. The avatar will be shown and used on
+every page for the user. To change the avatar use the same method.
+
+#### Delete avatar
+
+![Delete-avatar](MSS_Delete_Avatar.png)
+
+On the 'modify avatar' page you can delete the avatar by clicking on delete. You will return to the 'modify user' page. In the
+whole application the custom avatar will be used for this user.
+
+### Change password
 
 The admin will be able to change an employee's password should he have lost it.  
 He will have to hand this new password over to the employee in person.
