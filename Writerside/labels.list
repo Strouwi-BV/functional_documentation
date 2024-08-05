@@ -1,0 +1,9 @@
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <secondary-label id="client_projectmanagement" name="Klant & project database" color="blue">%\module_client_projectmanagement_name%</secondary-label>
+    <secondary-label id="employee_management" name="Personeelsbeheer" color="purple">Personeelsbeheer</secondary-label>
+    <secondary-label id="time_registration" name="Tijdsregistratie" color="red">Tijdsregistratie</secondary-label>
+    <secondary-label id="invoice" name="Facturatie" color="strawberry">Facturen</secondary-label>e"
+    <secondary-label id="location_registration" name="Locatieregistratie" color="tangerine">Locaties</secondary-label>
+</labels>

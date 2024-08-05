@@ -3,6 +3,11 @@
 ## Activities
 
 ### Register time
+<secondary-label ref="time_registration"/>
+<secondary-label ref="client_projectmanagement"/>
+<secondary-label ref="employee_management"/>
+<secondary-label ref="invoice"/>
+<secondary-label ref="location_registration"/>
 
 ![Register-time](ESS_registration_hours_first_time_without_client.jpg)
 
