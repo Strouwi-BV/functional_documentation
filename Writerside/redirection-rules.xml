@@ -22,4 +22,8 @@
         <description><![CDATA[Created after removal of "<Test.md>" from Buildbase]]></description>
         <accepts>Test.html</accepts>
     </rule>
+    <rule id="a51d4c7">
+        <description>Created after removal of "Overzichten" from Buildbase</description>
+        <accepts>Overzichten.html</accepts>
+    </rule>
 </rules>
