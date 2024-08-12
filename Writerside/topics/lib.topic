@@ -34,7 +34,7 @@
         <p>
             Ook is het mogelijk om op deze gegevens te filteren.
             Dit doet u door, indien de filters nog niet zichtbaar zijn, op <shortcut>Filter</shortcut> te klikken.
-            U kan nu een combinatie van filters te selecteren.
+            U kan nu een combinatie van filters selecteren.
             Enkel de %item_plural% die aan alle filters voldoen worden getoond.
             <img src="%filter_button_img%"  alt="Open filters %overview_name%"/>
             <img src="%filter_img%"  alt="Filter %overview_name%"/>

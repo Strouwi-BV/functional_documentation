@@ -143,7 +143,7 @@ U kan vanuit deze pagina ook een nieuw project maken.
         <img src="ClientDetailHeaderActionsHighlighted.png" alt="Klantdetail met acties aangeduid"/>
     </step>
     <step>
-        Klik op <shortcut>Zet op inactief</shortcut> of op <shortcut>Zet op actief</shortcut>.
+        Klik op <shortcut>Verwijder</shortcut>.
         <img src="ClientDetailActionsDeleteHighlighted.png" alt="Klantdetail met op verwijderen aangeduid"/>
     </step>
 </procedure>
@@ -184,7 +184,7 @@ U kan vanuit deze pagina ook een nieuw project maken.
 
 <img src="ProjectCreateAddButtonHighlighted.png" width = 32%/>
 <img src="ProjectCreateClientProjectOverviewCreateHighlighted.png" width = 32%>
-<img src="ProjectCreateSaveButtomBasicHighlighted.png" width = 32%/>
+<img src="ProjectCreateSaveButtonBasicHighlighted.png" width = 32%/>
 <img src="ProjectCreateSaveButtomViaClientHighlighted.png" width = 32%/>
 <img src="ProjectCreateErrorMessageHighlighted.png" width = 32%/>
 
