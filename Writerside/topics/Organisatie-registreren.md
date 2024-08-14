@@ -29,7 +29,7 @@ Dit hoofdstuk bevat instructies voor het registreren van een nieuw account en ee
 <procedure title="Gratis proefversie">
     <p>
         Bij een gratis proefversie zal u gedurende <b>twee weken</b> kennis kunnen maken met Buildbase.
-        Hiervoor hoeft u verder geen gevens in te vullen.
+        Hiervoor hoeft u verder geen gegevens in te vullen.
     </p>
     <step>
         U kan dus onmiddellijk een proefperiode starten door op <shortcut>START 15 DAGEN GRATIS</shortcut> te klikken.
@@ -58,7 +58,7 @@ Dit hoofdstuk bevat instructies voor het registreren van een nieuw account en ee
         <tip>Gedetailleerde uitleg over het configureren van uw abonnement vindt u <a href="Abonnement-configureren.md">hier</a>.</tip>
     </step>
     <step>
-        Controlleer of uw factureringsgegevens correct zijn en klik daarna op <shortcut>NAAR BETALING</shortcut>.
+        Controleer of uw factureringsgegevens correct zijn en klik daarna op <shortcut>NAAR BETALING</shortcut>.
         <img src="PaymentInvoiceFilledToPaymentHighlighted.png" alt="Ingevulde facturatieinformatie met naar betaling aangeduid"/>
     </step>
 </procedure>
