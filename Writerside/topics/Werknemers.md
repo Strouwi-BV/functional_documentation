@@ -82,13 +82,13 @@ U kan enkele acties uitvoeren op een werknemer:
 
 ### Persoonlijke informatie
 
-U ziet hier de algemene informatie over de werknemer zoals de geboortedatum,nationaliteit, rijksregisternummer enz... .
+U ziet hier de algemene informatie over de werknemer zoals de geboortedatum, nationaliteit, rijksregisternummer enz... .
 Het is ook mogelijk om deze gegevens te [wijzigen](#persoonlijke-informatie-aanpassen).
 <img src="EmployeeDetailPersonalInformationHighlighted.png" alt="Werknemerdetail met persoonlijke informatie aangeduid"/>
 
 ### Contactinformatie
 
-Dit zijn contactgegevens van de werknemer zoals het adres, werk email, telefoonnummer,contact voor noodgevallen en een persoonlijk e-mailadres.
+Dit zijn contactgegevens van de werknemer zoals het adres, werk email, telefoonnummer, contact voor noodgevallen en een persoonlijk e-mailadres.
 Het is ook mogelijk om deze gegevens te [wijzigen](#contactinformatie-aanpassen).
 <img src="EmployeeDetailContactInformationHighlighted.png" alt="Werknemerdetail met contactinformatie aangeduid"/>
 
