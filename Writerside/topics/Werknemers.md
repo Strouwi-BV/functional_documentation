@@ -17,6 +17,10 @@
     <var name="detail_img" value="EmployeeOverviewDetailHighlighted.png"/>
 </include>
 
+Bij elke rij kan u ook de [profielfoto](#profielfoto) van de gebruiker zien.
+Of indien de gebruiker geen profielfoto heeft, worden de initialen weergegeven.
+<img src="EmployeeOverviewAvatarHighlighted.png" alt="Werknemersoverzicht met profielfoto aangeduid"/>
+
 ## Werknemer aanmaken
 
 <procedure>
@@ -37,16 +41,22 @@
 ## Werknemer detail
 
 Op de detailpagina van een werknemer kan u alle informatie van de werknemer bekijken en bewerken.
+<img src="WerknemerDetail.png" alt="Werknemer detail"/>
 
 ### Kop
 
 De kop heeft verschillende eigenschappen:
+- [Profielfoto](#profielfoto)
 - [Werknemersnaam](#werknemersnaam)
 - [Functie](#functie)
 - [Statuut](#statuut)
 - [Terugkeren naar werknemersoverzicht](#terugkeren-naar-werknemersoverzicht)
 - [Status van de werknemer](#status)
 - [Acties](#acties)
+
+#### Profielfoto
+
+Hier kan u de profielfoto van de werknemer bekijken en [wijzigen](#profielfoto-aanpassen)
 
 #### Werknemersnaam
 
@@ -99,6 +109,33 @@ Het is ook mogelijk om deze gegevens te [wijzigen](#werkrooster-aanpassen).
 <img src="EmployeeDetailWorkscheduleHighlighted.png" alt="Werknemerdetail met werkrooster aangeduid"/>
 
 ## Werknemer aanpassen
+
+### Profielfoto aanpassen
+
+<procedure>
+    <step>
+        Ga naar de <a anchor="werknemer-detail">detailpagina van de werknemer</a>.
+    </step>
+    <step>
+        Klik op het potlood icoontje bij de profielfoto.
+        <img src="EmployeeDetailAvatarEditHighlighted.png" alt="Werknemerdetail met profielfoto aanpassen aangeduid"/>
+    </step>
+    <step>
+        Upload een profielfoto. 
+        <img src="EmployeeEditAvatarFileSelectHighlighted.png" alt="Profielfoto van werknemer aanpassen met upload aangeduid"/>
+    </step>
+    <step>
+        Klik op <shortcut>Opslaan</shortcut>.
+        <img src="EmployeeEditAvatarSaveHighlighted.png" alt="Profielfoto van werknemer aanpassen met opslaan aangeduid"/>
+    </step>
+    <step>
+        Indien u de profielfoto wilt verwijderen, kan u op <shortcut>Verwijderen</shortcut> klikken.
+        <img src="EmployeeEditAvatarDeleteHighlighted.png" alt="Profielfoto van werknemer aanpassen met verwijderen aangeduid"/>
+    </step>
+    <step>
+        U kan de wijziging waarnemen op het <a anchor="werknemersoverzicht">werknemersoverzicht</a>, in de <a anchor="werknemer-detail">detailpagina</a> van de werknemer en eventueel in het gebruikersmenu.
+    </step>
+</procedure>
 
 ### Werknemersnaam aanpassen
 

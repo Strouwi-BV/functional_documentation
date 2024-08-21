@@ -203,8 +203,65 @@ Het is ook mogelijk om deze afbeeldingen te [wijzigen](#project-foto-s-aanpassen
         <img src="ProjectDetailProjectFotosEditHighlighted.png" alt="Projectdetail met contactinformatie aanpassen aangeduid"/>
     </step>
     <step>
-        Kies de gewenste actie en klik op de desbetreffende  <shortcut>knop</shortcut>.
+        Kies de gewenste actie, de mogelijke opties zijn: <a anchor="project-foto-s-inspecteren">inspecteren</a>, 
+        <a anchor="project-foto-s-uploaden">uploaden</a>, <a anchor="project-foto-s-downloaden">downloaden</a> en <a anchor="project-foto-s-verwijderen">verwijderen</a>.
         <img src="ProjectEditProjectFotos.png" alt="Project contactinformatie aanpassen met opslaan aangeduid"/>
     </step>
 </procedure>
 
+#### Project foto's inspecteren
+
+Wanneer u in de inspecteermodus zit, kunt u op een afbeelding klikken om hem te vergroten.
+<img src="ProjectEditProjectFotosInspectImageHighlighted.png" alt="Project foto's aanpassen met inspecteermodus met afbeelding aangeduid"/>
+
+Om de vergroting te sluiten kunt u op het kruisje rechts bovenaan de afbeelding klikken of op de <shortcut>escape</shortcut> toets duwen.
+<img src="ProjectEditProjectFotosInspectZoomCloseHighlighted.png" alt="Project foto's aanpassen met inspecteermodus vergroot met sluiten aangeduid"/>
+
+#### Project foto's uploaden
+
+<procedure>
+    <step>
+        Selecteer één of meerdere afbeeldingen.
+        <img src="ProjectEditProjectFotosUploadFileSelectHighlighted.png" alt="Project foto's uploaden met afbeelding selecteren aangeduid"/>
+    </step>
+    <step>
+        Klik op <shortcut>Upload</shortcut>.
+        <img src="ProjectEditProjectFotosUploadUploadHighlighted.png" alt="Project foto's uploaden met uploaden aangeduid"/>
+    </step>
+</procedure>
+
+#### Project foto's downloaden
+
+<procedure>
+    <step>
+        Selecteer de afbeeldingen die u wilt downloaden. Dit kan u doen door op de afbeelding te klikken.
+        Een geselecteerde afbeelding krijgt een vinkje rechts bovenaan.
+        <img src="ProjectEditProjectFotosDownloadSelectHighlighted.png" alt="Project foto's downloaden met afbeelding aangeduid"/>
+        Het is ook mogelijk om alle afbeeldingen op een pagina te selecteren door op <shortcut>Pagina Selecteren</shortcut> te klikken.
+        <img src="ProjectEditProjectFotosDownloadSelectAllHighlighted.png" alt="Project foto's downloaden pagina selecteren aangeduid"/>
+        Wanneer alle afbeeldingen geselecteerd zijn kan u ook alle afbeeldingen deselecteren door op <shortcut>Niets Selecteren</shortcut> te klikken.
+        <img src="ProjectEditProjectFotosDownloadDeselectAll.png" alt="Project foto's downloaden met niets selecteren aangeduid"/>
+    </step>
+    <step>
+        Klik op <shortcut>Download</shortcut>.
+        <img src="ProjectEditProjectFotosDownloadDownloadHighlighted.png" alt="Project foto's downloaden met download aangeduid"/>
+    </step>
+</procedure>
+
+#### Project foto's verwijderen
+
+<procedure>
+    <step>
+        Selecteer de afbeeldingen die u wilt verwijderen. Dit kan u doen door op de afbeelding te klikken.
+        Een geselecteerde afbeelding krijgt een vinkje rechts bovenaan.
+        <img src="ProjectEditProjectFotosDeleteSelectHighlighted.png" alt="Project foto's verwijderen met afbeelding aangeduid"/>
+        Het is ook mogelijk om alle afbeeldingen op een pagina te selecteren door op <shortcut>Pagina Selecteren</shortcut> te klikken.
+        <img src="ProjectEditProjectFotosDeleteSelectAllHighlighted.png" alt="Project foto's verwijderen pagina selecteren aangeduid"/>
+        Wanneer alle afbeeldingen geselecteerd zijn kan u ook alle afbeeldingen deselecteren door op <shortcut>Niets Selecteren</shortcut> te klikken.
+        <img src="ProjectEditProjectFotosDeleteDeselectAll.png" alt="Project foto's verwijderen met niets selecteren aangeduid"/>
+    </step>
+    <step>
+        Klik op <shortcut>Verwijder</shortcut>.
+        <img src="ProjectEditProjectFotosDeleteDeleteHighlighted.png" alt="Project foto's verwijderen met verwijder aangeduid"/>
+    </step>
+</procedure>
