@@ -5,7 +5,7 @@
 ### Register time
 
 ![Register-time](ESS_registration_hours_first_time_without_client.jpg)
-
+%module_client_projectmanagement_name%
 When selecting a specific day on the [calendar](#calendar) you will be guided to the page where you'll be able to
 register worked time for that specific day. On the page the expected work hours for that
 day for the user are shown, the amount depends on the statute of the user and the selected day. When a registration is

@@ -1,0 +1,16 @@
+<vars>
+    <var name="url_buildbase" value="https://backoffice.buildbase.be"/>
+    <!--<var name="url_buildbase" value="https://backoffice-dev.buildbase.be"/>-->
+
+    <!--Also defined in labels.list-->
+    <var name="module_client_projectmanagement_name" value="Klant & project database"/>
+    <var name="module_client_projectmanagement_colorame" value="blue"/>
+    <var name="module_employee_management_name" value="Personeelsbeheer"/>
+    <var name="module_employee_management_color" value="purple"/>
+    <var name="module_time_registration_name" value="Tijdsregistratie"/>
+    <var name="module_time_registration_color" value="red"/>
+    <var name="module_invoice_name" value="Facturatie"/>
+    <var name="module_invoice_color" value="strawberry"/>
+    <var name="module_location_registration_name" value="Locatieregistratie"/>
+    <var name="module_location_registration_color" value="tangerine"/>
+</vars>

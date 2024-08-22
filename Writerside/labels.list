@@ -1,0 +1,16 @@
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <!--Also defined in v.list-->
+    <primary-label id="client_projectmanagement_primary" name='Klant & project database' color="blue" short-name="K&P">Klant & project database</primary-label>
+    <primary-label id="employee_management_primary" name="Personeelsbeheer" color="purple" short-name="PB">Personeelsbeheer</primary-label>
+    <primary-label id="time_registration_primary" name="Tijdsregistratie" color="red" short-name="TR">Tijdsregistratie</primary-label>
+    <primary-label id="invoice_primary" name="Facturatie" color="strawberry" short-name="F">Facturen</primary-label>e"
+    <primary-label id="location_registration_primary" name="Locatieregistratie" color="tangerine" short-name="LR">Locaties</primary-label>
+
+    <secondary-label id="client_projectmanagement_secondary" name='Klant & project database' color="blue">Klant & project database</secondary-label>
+    <secondary-label id="employee_management_secondary" name="Personeelsbeheer" color="purple">Personeelsbeheer</secondary-label>
+    <secondary-label id="time_registration_secondary" name="Tijdsregistratie" color="red">Tijdsregistratie</secondary-label>
+    <secondary-label id="invoice_secondary" name="Facturatie" color="strawberry">Facturen</secondary-label>e"
+    <secondary-label id="location_registration_secondary" name="Locatieregistratie" color="tangerine">Locaties</secondary-label>
+</labels>

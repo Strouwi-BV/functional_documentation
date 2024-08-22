@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+    SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+   title="Library" id="lib" is-library="true">
+
+    <snippet id="application_link">
+        <var name="text" value="Example"/>
+        <format color="LightSkyBlue" style="italic">%text%</format>
+    </snippet>
+
+    <snippet id="overview">
+        <var name="overview_name" value="overzicht"/>
+        <var name="item_singular" value="item"/>
+        <var name="item_plural" value="items"/>
+        <var name="new_item" value="nieuw item"/>
+        <var name="table_information" value="de naam en of het item actief is of niet"/>
+        <var name="detail_anchor" value="#detail"/>
+        <var name="new_img" value="new.png"/>
+        <var name="filter_button_img" value="ClientOverviewFilterHighlighted.png"/>
+        <var name="filter_img" value="filter.png"/>
+        <var name="detail_img" value="detail.png"/>
+        <p>
+            Op het %overview_name% kan u een lijst raadplegen van alle %item_plural%.
+            Ze worden onder elkaar weergegeven in tabelvorm met informatie zoals %table_information%.
+            Door op de rij van een %item_singular% te klikken kan u de <a anchor="%detail_anchor%">detailpagina</a> bekijken.
+            <img src="%detail_img%"  alt="Detail %overview_name%"/>
+        </p>
+        <p>
+            Door op <shortcut>%new_item%</shortcut> te klikken kan u een <a anchor="%new_anchor%">%new_item% aanmaken</a>.
+            <img src="%new_img%"  alt="Knop %new_item%"/>
+        </p>
+        <p>
+            Ook is het mogelijk om op deze gegevens te filteren.
+            Dit doet u door, indien de filters nog niet zichtbaar zijn, op <shortcut>Filter</shortcut> te klikken.
+            U kan nu een combinatie van filters selecteren.
+            Enkel de %item_plural% die aan alle filters voldoen worden getoond.
+            <img src="%filter_button_img%"  alt="Open filters %overview_name%"/>
+            <img src="%filter_img%"  alt="Filter %overview_name%"/>
+        </p>
+    </snippet>
+
+</topic>

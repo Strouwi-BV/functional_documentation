@@ -6,8 +6,8 @@
     <build-profile instance="in">
         <variables>
             <primary-color>deep-ocean</primary-color>
-            <header-logo>Logo_S2.png</header-logo>
             <product-web-url>https://backoffice-dev.buildbase.be</product-web-url>
+            <custom-css>custom.css</custom-css>
         </variables>
     </build-profile>
 
