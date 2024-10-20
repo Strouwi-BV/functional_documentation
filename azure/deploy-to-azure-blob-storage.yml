@@ -19,4 +19,3 @@ steps:
           --destination functional-docs \
           --source Writerside/topics \
           --auth-mode key
-    displayName: 'Upload Writerside/topics folder to the root of Azure Blob Storage'
