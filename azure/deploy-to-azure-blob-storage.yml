@@ -18,4 +18,4 @@ steps:
           --account-name sabbassisknbasedevne \
           --destination functional-docs \
           --source Writerside/topics \
-          --auth-mode key
+          --auth-mode login
