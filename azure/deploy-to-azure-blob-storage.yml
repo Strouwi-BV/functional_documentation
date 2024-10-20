@@ -1,0 +1,22 @@
+trigger:
+  branches:
+    include:
+      - dev
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+  - task: AzureCLI@2
+    inputs:
+      azureSubscription: 'ai-devqa(46d07f90-57a4-47a3-9721-b416afc6ef88)'
+      scriptType: 'bash'
+      scriptLocation: 'inlineScript'
+      inlineScript: |
+        echo "Uploading all files from Writerside/topics folder to the root of Azure Blob Storage..."
+        az storage blob upload-batch \
+          --account-name sabbassisknbasedevne \
+          --destination functional-docs \
+          --source Writerside/topics \
+          --auth-mode key
+    displayName: 'Upload Writerside/topics folder to the root of Azure Blob Storage'
